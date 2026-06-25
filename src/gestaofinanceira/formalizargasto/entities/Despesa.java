@@ -1,4 +1,4 @@
-package gestaofinanceira.formalizarGasto.entities;
+package gestaofinanceira.formalizargasto.entities;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

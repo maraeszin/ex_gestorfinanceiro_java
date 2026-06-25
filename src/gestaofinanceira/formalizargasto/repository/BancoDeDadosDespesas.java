@@ -1,6 +1,6 @@
-package gestaofinanceira.formalizarGasto.repository;
+package gestaofinanceira.formalizargasto.repository;
 
-import gestaofinanceira.formalizarGasto.entities.Despesa;
+import gestaofinanceira.formalizargasto.entities.Despesa;
 
 import java.util.Map;
 import java.util.Set;
